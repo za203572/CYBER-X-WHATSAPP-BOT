@@ -21,7 +21,7 @@
             "value": ""
         },
         "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
+            "description": "alexaza20",
             "required": true,
             "value": ""
         },
